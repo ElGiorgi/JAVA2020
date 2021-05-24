@@ -1,5 +1,5 @@
 
-public class ejercicio1 {
+public class Punto {
 	private int X;
 	private int Y;
 	
